@@ -14,6 +14,11 @@
 
 ## Results
 
+![55_to_102](https://user-images.githubusercontent.com/103101268/198178638-9faba8ab-c59e-4dd3-85a0-432a561a2706.gif)
+![103_to_192](https://user-images.githubusercontent.com/103101268/198179471-a0d54e2c-1aa6-4687-96b3-69e357ba4bd7.gif)
+![192_to_282](https://user-images.githubusercontent.com/103101268/198179476-8c63386b-59f2-4f26-81ba-203c02f01c8a.gif)
+![cookies](https://user-images.githubusercontent.com/103101268/198179192-c7a51400-4f93-41ef-a60d-0a576b8137ab.gif)
+
 ## Further development
 
 - Trainable channel인 readout & finalization 의 재학습 <br>
