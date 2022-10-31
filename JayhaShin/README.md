@@ -1,21 +1,20 @@
-## Price Distribution
-Picture the merchandise stand with smartphone camera and visualize it's price distrubution. 
-Developed to instantly visualize if a stand is well displayed via prices. 
-Beneficial to merchandising display personnel.
- - ex) Is profit-purposed product well displayed on the line of sight?
- - ex) Is lesser-product displayed on the outward?
- - ex) Are prices giving customer at least three choices? (Good, Better, Best)
+## 가격분포 (Price Distribution)
+매장 진열대의 사진을 찍고 가격을 인식 후 히트맵으로 구현.
+디스플레이 진열 방법에 대한 평가 보조용도.
+ - ex) 매출 핵심 상품을 고객의 시선(눈높이)에 위치했는가?
+ - ex) 비인기/저가 상품을 외곽 또는 바닥에 두었는가?
+ - ex) 진열된 상품들의 가격은 3종 이상인가? (good, better, best)
 <br />
 
-### Example Results
+### 결과 예시
 ![example](examples/result_price_groundtrugh_1.jpg)
 ![example](examples/result_ocr_12_plots.jpg)
 <br /><br />
 
 
 
-## Usages
-Change "UPPER_LIMIT"(ex. UPPER_LIMIT = 2500) depanding on the price of your image.
+## 사용 전에...
+"UPPER_LIMIT"(ex. UPPER_LIMIT = 2500) 을 각자의 이미지에 있는 최댓값으로 변경할 것.
 <br /><br />
 
 "PyTesseract"
