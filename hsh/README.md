@@ -18,7 +18,7 @@ FamNet
 
 ## Result
 
-![example](img\counter result.png)
+![example](https://github.com/Farmer-from-Space/midlevel_project/blob/main/hsh/img/counter%20result.png)
 </br></br>
 
 ## Conclusion and Discussion
@@ -29,6 +29,6 @@ FamNet
 </br></br></br>
 
 ### References
-Learning To Count Everything:
+[Learning To Count Everything](https://github.com/cvlab-stonybrook/LearningToCountEverything):
 Viresh Ranjan, Udbhav Sharma, Thu Nguyen and Minh Hoai</br>
 Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2021.
