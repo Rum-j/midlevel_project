@@ -10,11 +10,11 @@ Transfer learning 등의 추가 학습 없이 Model 개선 방법 학습 및 연
 </br>
 
 ## Model  
-FamNet
+FamNet  
 </br>
 
 ## Data Sample
-기존 모델로 test시 상대적으로 높은 error가 발생하는 딸기 이미지 (Dataset: FSC147)
+기존 모델로 test시 상대적으로 높은 error가 발생하는 딸기 이미지 (Dataset: FSC147)  
 </br>
 
 ## Result
