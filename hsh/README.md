@@ -8,6 +8,7 @@ Transfer learning 등의 추가 학습 없이 Model 개선 방법 학습 및 연
 - CNN 내 다른 layer의 feature extraction
 - backbone model 교체
 </br>
+
 ## Model  
 FamNet
 </br>
