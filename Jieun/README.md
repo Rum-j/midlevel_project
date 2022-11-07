@@ -33,7 +33,8 @@
 ## References
 
 <details>
-<summary>Understanding Low- and High-Level Contributions to Fixation Prediction</summary>
+<summary>Understanding Low- and High-Level Contributions to Fixation Prediction 
+<br>[리뷰 포스팅: https://rum-j.tistory.com/32]</summary>
 <div markdown="1">
 
 M. Kümmerer, T. S. A. Wallis, L. A. Gatys and M. Bethge, "Understanding Low- and High-Level Contributions to Fixation Prediction," 2017 IEEE International Conference on Computer Vision (ICCV), 2017, pp. 4799-4808, doi: 10.1109/ICCV.2017.513.
@@ -42,8 +43,10 @@ M. Kümmerer, T. S. A. Wallis, L. A. Gatys and M. Bethge, "Understanding Low- an
 </details>
 
 <details>
-<summary>DeepGaze IIE: Calibrated prediction in and out-of-domain for state-of-the-art saliency modeling</summary>
+<summary>DeepGaze IIE: Calibrated prediction in and out-of-domain for state-of-the-art saliency modeling
+<br>[리뷰 포스팅: https://rum-j.tistory.com/33]</summary>
 <div markdown="1">
 Akis Linardos, Matthias Kümmerer, Ori Press, Matthias Bethge; Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV), 2021, pp. 12919-12928
+
 </div>
 </details>
